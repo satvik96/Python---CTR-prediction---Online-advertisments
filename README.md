@@ -2,10 +2,3 @@
 Click through rate prediction for online advertisements. 
 
 Adding a summary of the project soon here.
-
-Adding some edits hereCancel changes1
-
-git push --set-upstream origin feature22
-
-
-test123
